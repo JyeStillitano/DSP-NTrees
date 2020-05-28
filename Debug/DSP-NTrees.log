@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Jye\Desktop\Code\DSP-NTrees\Stages.h(10,1): warning C4005: 'S': macro redefinition
+C:\Users\Jye\Desktop\Code\DSP-NTrees\Stages.h(7): message : see previous definition of 'S'
+C:\Users\Jye\Desktop\Code\DSP-NTrees\Stages.h(13,1): warning C4005: 'S': macro redefinition
+C:\Users\Jye\Desktop\Code\DSP-NTrees\Stages.h(10): message : see previous definition of 'S'
+  DSP-NTrees.vcxproj -> C:\Users\Jye\Desktop\Code\DSP-NTrees\Debug\DSP-NTrees.exe
